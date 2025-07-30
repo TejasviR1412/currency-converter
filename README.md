@@ -81,7 +81,7 @@ test → Unit & integration tests for controllers and services
 
 ### ⚙️ Clone & build
 bash:  
-  git clone https://github.com/YOUR_USERNAME/currency-converter.git  
+  git clone https://github.com/TejasviR1412/currency-converter.git  
   cd currency-converter  
   mvn clean install  
 
@@ -113,5 +113,4 @@ bash:
 ---
 
 ## ✅ **Extra tips:**
-- Replace `YOUR_USERNAME` with your GitHub username.
 - Replace `YOUR_API_KEY` with your real API key.
